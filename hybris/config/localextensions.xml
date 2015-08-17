@@ -10,9 +10,18 @@
     <extension name='cmscockpit' />
     <extension name='cscockpit' />
     <extension name='productcockpit' />
-    <extension name='yb2bacceleratorinitialdata' />
-    <extension name='yb2bacceleratorstorefront' />
+    <!--<extension name='yb2bacceleratorinitialdata' />-->
+    <!--<extension name='yb2bacceleratorstorefront' />-->
     <extension name='ycommercewebservices' />
     <extension name='b2bcommercebackoffice' />
+    
+    
+    <extension name='toyofulfilmentprocess' />
+    <extension name='toyocore' />
+    <extension name='toyostorefront' />
+    <extension name='toyofacades' />
+    <extension name='toyoinitialdata' />
+    <extension name='toyocockpits' />
+    
   </extensions>
 </hybrisconfig>
