@@ -1,0 +1,18 @@
+<hybrisconfig xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='../bin/platform/resources/schemas/extensions.xsd'>
+  <extensions>
+    <path dir='${HYBRIS_BIN_DIR}' autoload='false' />
+    <extension name='mcc' />
+    <extension name='admincockpit' />
+    <extension name='cockpit' />
+    <extension name='backoffice' />
+    <extension name='btgcockpit' />
+    <extension name='b2badmincockpit' />
+    <extension name='cmscockpit' />
+    <extension name='cscockpit' />
+    <extension name='productcockpit' />
+    <extension name='yb2bacceleratorinitialdata' />
+    <extension name='yb2bacceleratorstorefront' />
+    <extension name='ycommercewebservices' />
+    <extension name='b2bcommercebackoffice' />
+  </extensions>
+</hybrisconfig>
