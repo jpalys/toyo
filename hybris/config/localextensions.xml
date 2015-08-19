@@ -22,6 +22,8 @@
     <extension name='toyofacades' />
     <extension name='toyoinitialdata' />
     <extension name='toyocockpits' />
-    
+
+    <extension name='commercesearchbackoffice' />
+
   </extensions>
 </hybrisconfig>
